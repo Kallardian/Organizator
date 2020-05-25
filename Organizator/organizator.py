@@ -2,7 +2,7 @@
 # Bem vindo ao Organizator!
 # O objetivo deste código é organizar uma pasta em sub-pastas, 
 # cada uma contendo diferentes tipos de arquivos.
-# Para que funcione, você iniciar o código, e mover um
+# Para que funcione, você deve iniciar o código, e mover um
 # arquivo para a pasta original.
 # 
 # Você poderá receber alguns erros, ainda está em fase de desenvolvimento..
